@@ -1,0 +1,6 @@
+
+--This line, and those below, will be ignored--
+
+M    map.h
+A    cell.h
+A    cell.cc
